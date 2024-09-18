@@ -11,6 +11,8 @@ After download or clone run `npm install` OR `yarn install` to install all the d
 ## Frontend : is simple open index.html , made completly by HMLT , CSS , Javascript 
 ## Bakend : do 'npm install' then , rune nodemon server.js   , made by nodejs , express ( for easy server creation ) . 
 ## Database : i used mongodb ( you can see many tutorial and know how to create it , you can create online , no need to install mongodb on your system ) 
+
+
 ## IMP : create a .env file in backend , and put all environment variable . Here is example . 
 ## Here you can put your own things , app base url is okay no need to change until you are , hosting somewhere . 
 APP_BASE_URL=http://localhost:3000
@@ -20,6 +22,6 @@ SMTP_PORT=587
 MAIL_USER=
 MAIL_PASSWORD=
 
-# IMage : 
-![image](https://github.com/user-attachments/assets/7fa5749b-048e-4039-952c-1315f048b5a7)
+![image](https://github.com/user-attachments/assets/904e4d18-28d3-4ae5-b60e-88513b405db2)
+
 
