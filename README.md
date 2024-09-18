@@ -24,4 +24,5 @@ MAIL_PASSWORD=
 
 ![image](https://github.com/user-attachments/assets/904e4d18-28d3-4ae5-b60e-88513b405db2)
 
+![image](https://github.com/user-attachments/assets/21fe8c6e-684d-4c7f-8298-9570a05a29cb)
 
