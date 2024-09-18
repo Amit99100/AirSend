@@ -26,3 +26,7 @@ MAIL_PASSWORD=
 
 ![image](https://github.com/user-attachments/assets/21fe8c6e-684d-4c7f-8298-9570a05a29cb)
 
+
+![image](https://github.com/user-attachments/assets/1d6d8143-6327-47da-9f86-c07d9c4e1006)
+
+
